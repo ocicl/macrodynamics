@@ -1,0 +1,10 @@
+* macrodynamics
+
+Look at your macros in a whole new scope.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/DalekBaldwin/macrodynamics.git   |
+| commit  | 1b4f683  |
+| systems | macrodynamics |
+|---------+-------------------------------------------|
+
